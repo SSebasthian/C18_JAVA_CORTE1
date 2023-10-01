@@ -12,7 +12,7 @@ public class Calculadora {
         Scanner scanner = new Scanner(System.in);
 
 
-        System.out.println(scanner);
+
 
         System.out.println("Digite el primer numero");
         int numero1 = scanner.nextInt();
